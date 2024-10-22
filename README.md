@@ -35,13 +35,15 @@ It is a Windows application that lets you know the prayer times and reminds you 
 
 ---
 ### 
-| a |  | |
-|--|--|--|
-|  Shared Prayer Schedule| Share the prayer schedule with mosque members or other users. | |
-|  Task Assignments|  | |
-|  Community Notifications|  | |
+| Feature|Description | 
+|--|--|
+|  Task Assignments|Assign specific prayer times and alert responsibilities to others. | 
+|  Community Notifications| Send prayer-related announcements or events to all users in the network. | 
+
+---
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzk3MzQxNywxNjU4Mjc5Mzg2LDE2MD
+eyJoaXN0b3J5IjpbLTUxNjk0MDczNCwxNjU4Mjc5Mzg2LDE2MD
 A5NDMxNjksMTA3OTI0NDM2M119
 -->
