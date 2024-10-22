@@ -61,9 +61,12 @@ It is a Windows application that lets you know the prayer times and reminds you 
 
  - Use the program without an Internet connection.
  - The widget is not appearing on the desktop.
- - 
+ - The program doesn't start with Windows.
+
+## Advanced Usage
+a
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzMzU3OTIyLDE2NTgyNzkzODYsMTYwMD
-k0MzE2OSwxMDc5MjQ0MzYzXX0=
+eyJoaXN0b3J5IjpbLTE2NDg0OTEzNjAsMTY1ODI3OTM4NiwxNj
+AwOTQzMTY5LDEwNzkyNDQzNjNdfQ==
 -->
