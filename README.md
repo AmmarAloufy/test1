@@ -46,10 +46,10 @@ It is a Windows application that lets you know the prayer times and reminds you 
 {
   "prayers": [
     {"name": "Fajr", "time": "05:02 AM", "athan_alerts_sent": 50},
-    {"name": "Dhuhr", "time": "12:45 PM", "athan_alerts_sent": 45},
-    {"name": "Asr", "time": "04:15 PM", "athan_alerts_sent": 40},
-    {"name": "Maghrib", "time": "06:30 PM", "athan_alerts_sent": 60},
-    {"name": "Isha", "time": "08:00 PM", "athan_alerts_sent": 55}
+    {"name": "Dhuhr", "time": "12:05 PM", "athan_alerts_sent": 45},
+    {"name": "Asr", "time": "03:23 PM", "athan_alerts_sent": 40},
+    {"name": "Maghrib", "time": "05:51 PM", "athan_alerts_sent": 60},
+    {"name": "Isha", "time": "07:21 PM", "athan_alerts_sent": 55}
   ],
   "total_users": 100,
   "date": "2024-10-22"
@@ -57,7 +57,9 @@ It is a Windows application that lets you know the prayer times and reminds you 
 
 ```
 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ0MTAwMjksMTY1ODI3OTM4NiwxNjAwOT
-QzMTY5LDEwNzkyNDQzNjNdfQ==
+eyJoaXN0b3J5IjpbNTg4MDU0Mjc1LDE2NTgyNzkzODYsMTYwMD
+k0MzE2OSwxMDc5MjQ0MzYzXX0=
 -->
