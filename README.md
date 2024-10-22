@@ -68,17 +68,16 @@ It is a Windows application linked to timesprayer[^1]: site that lets you know t
 
 ## Advanced Usage: :dart:
 
- - **Advanced Notifications:** set multiple notifications for each prayer (e.g., 15 minutes before prayer).
+ - **Advanced Notifications:** set multiple notifications for each prayer (e.g., 15 minutes before prayer).a
  - **Multiple Location Support:** Add multiple locations by entering city names or coordinates.
 
 ---
 ### ref:
 [^1]:https://timesprayer.com/
-
-[^2]
+[^2]:https://github.com/AmmarAloufy/test1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTIyMjY4MDQsLTcyMzQ5NjI4MSwyMD
-MxMzIzOTc5XX0=
+eyJoaXN0b3J5IjpbNTY1MDA1OTYzLC03MjM0OTYyODEsMjAzMT
+MyMzk3OV19
 -->
