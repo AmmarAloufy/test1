@@ -60,9 +60,9 @@ It is a Windows application that lets you know the prayer times and reminds you 
 ## Troubleshooting: :bomb:
 
  - Use the program without an Internet connection
- - 
+ - No sound for Athan alerts
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzk2ODMxNTAsMTY1ODI3OTM4NiwxNj
-AwOTQzMTY5LDEwNzkyNDQzNjNdfQ==
+eyJoaXN0b3J5IjpbMTMxMzczMDI2LDE2NTgyNzkzODYsMTYwMD
+k0MzE2OSwxMDc5MjQ0MzYzXX0=
 -->
