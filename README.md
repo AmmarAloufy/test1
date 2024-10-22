@@ -64,9 +64,9 @@ It is a Windows application that lets you know the prayer times and reminds you 
  - The program doesn't start with Windows.
 
 ## Advanced Usage: :dart:
-a
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjE0OTg4NDEsMTY1ODI3OTM4NiwxNj
-AwOTQzMTY5LDEwNzkyNDQzNjNdfQ==
+eyJoaXN0b3J5IjpbLTkyMDYzNTA2NCwtMTY2MTQ5ODg0MSwxNj
+U4Mjc5Mzg2LDE2MDA5NDMxNjksMTA3OTI0NDM2M119
 -->
