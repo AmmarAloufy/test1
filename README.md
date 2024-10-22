@@ -8,6 +8,8 @@
 It is a Windows application linked to timesprayer[^1]: site that lets you know the prayer times and reminds you of them .
 
 
+
+
 ## Key Features: :key:
 * **Prayer Times:**  Displays accurate prayer times based on your location.
 * **Athan Alert:** when the call to prayer is approaching
@@ -74,5 +76,5 @@ ref:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMTMyMzk3OV19
+eyJoaXN0b3J5IjpbLTcyMzQ5NjI4MSwyMDMxMzIzOTc5XX0=
 -->
