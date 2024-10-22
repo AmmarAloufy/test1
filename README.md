@@ -5,7 +5,7 @@
 
 
 # Adhan  :mosque:
-It is a Windows application linked to timesprayer[^1]: site that lets you know the prayer times and reminds you of them .
+It is a Windows application linked to ***timesprayer***[^1]: site that lets you know the prayer times and reminds you of them .
 
 ### A look at the welcome interface:
 
@@ -21,7 +21,7 @@ It is a Windows application linked to timesprayer[^1]: site that lets you know t
 * **Widgets:** Offers desktop widgets for quick access to prayer times
 
 ## Installation Guide: :memo:
-1. Download from github[^2].
+1. Download from ***github***[^2].
 2. Open program.
 3. Select loction install.
 
@@ -35,7 +35,7 @@ It is a Windows application linked to timesprayer[^1]: site that lets you know t
  - [x] Fajr
   - [x] Dhuhr
   - [x] Asr
-  - [ ] Maghrib
+  - [ ] ~~Maghrib~~
  - [x] Isha
 
 ---
@@ -80,6 +80,6 @@ It is a Windows application linked to timesprayer[^1]: site that lets you know t
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg3NzAwNTMsLTcyMzQ5NjI4MSwyMD
-MxMzIzOTc5XX0=
+eyJoaXN0b3J5IjpbLTQwMTc4MzgxMywtNzIzNDk2MjgxLDIwMz
+EzMjM5NzldfQ==
 -->
