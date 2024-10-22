@@ -7,7 +7,7 @@
 # Adhan  :mosque:
 It is a Windows application linked to timesprayer[^1]: site that lets you know the prayer times and reminds you of them .
 
-![alt text](https://github.com/AmmarAloufy/test1/blob/main/%D9%84%D9%82%D8%B7%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D8%B4%D8%A9%202024-10-22%20205657.png)
+![alt text](https://github.com/AmmarAloufy/test1/blob/main/UI.png)
 
 
 
@@ -77,6 +77,6 @@ ref:
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTM2NjM3ODgsLTcyMzQ5NjI4MSwyMD
-MxMzIzOTc5XX0=
+eyJoaXN0b3J5IjpbLTUxNjI1MjUwMywtNzIzNDk2MjgxLDIwMz
+EzMjM5NzldfQ==
 -->
