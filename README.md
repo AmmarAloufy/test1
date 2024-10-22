@@ -59,9 +59,9 @@ It is a Windows application that lets you know the prayer times and reminds you 
 ---
 ## Troubleshooting:
 
-
+ - List item
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzMwMTUwMjQsMTY1ODI3OTM4NiwxNj
-AwOTQzMTY5LDEwNzkyNDQzNjNdfQ==
+eyJoaXN0b3J5IjpbMzg1NDI4MzAsMTY1ODI3OTM4NiwxNjAwOT
+QzMTY5LDEwNzkyNDQzNjNdfQ==
 -->
