@@ -28,8 +28,8 @@ It is a Windows application that lets you know the prayer times and reminds you 
 
 ### How to create a special  widgets:
 
- - [ ] List item
+ - [ ] chose 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwODcyNTM3NjksMTA3OTI0NDM2M119
+eyJoaXN0b3J5IjpbMTU4NjAxNjI1NiwxMDc5MjQ0MzYzXX0=
 -->
