@@ -56,10 +56,12 @@ It is a Windows application that lets you know the prayer times and reminds you 
 }
 
 ```
+---
+## Troubleshooting:
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg4MDU0Mjc1LDE2NTgyNzkzODYsMTYwMD
-k0MzE2OSwxMDc5MjQ0MzYzXX0=
+eyJoaXN0b3J5IjpbLTE4MzMwMTUwMjQsMTY1ODI3OTM4NiwxNj
+AwOTQzMTY5LDEwNzkyNDQzNjNdfQ==
 -->
