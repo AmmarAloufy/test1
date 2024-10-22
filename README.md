@@ -5,7 +5,7 @@
 
 
 # Adhan  :mosque:
-It is a Windows application that lets you know the prayer times and reminds you of them , it like widget screen in phone.
+It is a Windows application linked to timesprayer site that lets you know the prayer times and reminds you of them , it like widget screen in phone.
 
 
 ## Key Features: :key:
@@ -70,7 +70,7 @@ It is a Windows application that lets you know the prayer times and reminds you 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMzU5NTMzMCwtOTIwNjM1MDY0LC0xNj
-YxNDk4ODQxLDE2NTgyNzkzODYsMTYwMDk0MzE2OSwxMDc5MjQ0
-MzYzXX0=
+eyJoaXN0b3J5IjpbLTEyNjUwMzI5NzAsLTkxMzU5NTMzMCwtOT
+IwNjM1MDY0LC0xNjYxNDk4ODQxLDE2NTgyNzkzODYsMTYwMDk0
+MzE2OSwxMDc5MjQ0MzYzXX0=
 -->
