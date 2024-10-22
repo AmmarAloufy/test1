@@ -27,13 +27,15 @@ It is a Windows application that lets you know the prayer times and reminds you 
 ## User Guide: :mag:
 
 ### How to activate the adhan alarm:
- 1. - [ ] Fajr
- 2. - [ ] Dhuhr
- 3. - [ ] Asr
- 4. - [ ] Maghrub
+ - [ ] Fajr
+  - [ ] Dhuhr
+  - [ ] Asr
+  - [ ] Maghrib
+ - [ ] Isha
+ - [ ] List item
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTk0ODY4OCwxNjAwOTQzMTY5LDEwNz
+eyJoaXN0b3J5IjpbMTk2MzkwNjA2NCwxNjAwOTQzMTY5LDEwNz
 kyNDQzNjNdfQ==
 -->
