@@ -34,16 +34,31 @@ It is a Windows application that lets you know the prayer times and reminds you 
  - [x] Isha
 
 ---
-### 
+### Collaboration
 | Feature|Description | 
 |--|--|
 |  Task Assignments|Assign specific prayer times and alert responsibilities to others. | 
 |  Community Notifications| Send prayer-related announcements or events to all users in the network. | 
 
 ---
+### a
+```josn
+{
+  "mosque_name": "Al-Noor Mosque",
+  "prayers": [
+    {"name": "Fajr", "time": "05:30 AM", "athan_alerts_sent": 50},
+    {"name": "Dhuhr", "time": "12:45 PM", "athan_alerts_sent": 45},
+    {"name": "Asr", "time": "04:15 PM", "athan_alerts_sent": 40},
+    {"name": "Maghrib", "time": "06:30 PM", "athan_alerts_sent": 60},
+    {"name": "Isha", "time": "08:00 PM", "athan_alerts_sent": 55}
+  ],
+  "total_users": 100,
+  "date": "2024-10-22"
+}
 
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNjk0MDczNCwxNjU4Mjc5Mzg2LDE2MD
-A5NDMxNjksMTA3OTI0NDM2M119
+eyJoaXN0b3J5IjpbLTE0NDE0MzYwMjMsMTY1ODI3OTM4NiwxNj
+AwOTQzMTY5LDEwNzkyNDQzNjNdfQ==
 -->
