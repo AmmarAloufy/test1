@@ -41,12 +41,11 @@ It is a Windows application that lets you know the prayer times and reminds you 
 |  Community Notifications| Send prayer-related announcements or events to all users in the network. | 
 
 ---
-### a
-```josn
+###  Example of a prayer report generated in JSON format:
+```json
 {
-  "mosque_name": "Al-Noor Mosque",
   "prayers": [
-    {"name": "Fajr", "time": "05:30 AM", "athan_alerts_sent": 50},
+    {"name": "Fajr", "time": "05:02 AM", "athan_alerts_sent": 50},
     {"name": "Dhuhr", "time": "12:45 PM", "athan_alerts_sent": 45},
     {"name": "Asr", "time": "04:15 PM", "athan_alerts_sent": 40},
     {"name": "Maghrib", "time": "06:30 PM", "athan_alerts_sent": 60},
@@ -59,6 +58,6 @@ It is a Windows application that lets you know the prayer times and reminds you 
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE0MzYwMjMsMTY1ODI3OTM4NiwxNj
-AwOTQzMTY5LDEwNzkyNDQzNjNdfQ==
+eyJoaXN0b3J5IjpbNjQ0MTAwMjksMTY1ODI3OTM4NiwxNjAwOT
+QzMTY5LDEwNzkyNDQzNjNdfQ==
 -->
