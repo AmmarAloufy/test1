@@ -59,10 +59,11 @@ It is a Windows application that lets you know the prayer times and reminds you 
 ---
 ## Troubleshooting: :bomb:
 
- - Use the program without an Internet connection
- - No sound for Athan alerts
+ - Use the program without an Internet connection.
+ - The widget is not appearing on the desktop.
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzczMDI2LDE2NTgyNzkzODYsMTYwMD
+eyJoaXN0b3J5IjpbMjEzMzU3OTIyLDE2NTgyNzkzODYsMTYwMD
 k0MzE2OSwxMDc5MjQ0MzYzXX0=
 -->
