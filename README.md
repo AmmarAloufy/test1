@@ -27,10 +27,12 @@ It is a Windows application that lets you know the prayer times and reminds you 
 ## User Guide: :mag:
 
 ### How to create a special  widgets:
- - [ ] l
- - [ ] List item
+ 1. - [ ] a
+ 2. - [ ] l
+ 3. - [ ] a
+ 4. - [ ] List item
 
 ---
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDQ1MDQxOSwxMDc5MjQ0MzYzXX0=
+eyJoaXN0b3J5IjpbMTYwMDk0MzE2OSwxMDc5MjQ0MzYzXX0=
 -->
