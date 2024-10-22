@@ -63,10 +63,10 @@ It is a Windows application that lets you know the prayer times and reminds you 
  - The widget is not appearing on the desktop.
  - The program doesn't start with Windows.
 
-## Advanced Usage
+## Advanced Usage: :dart:
 a
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDg0OTEzNjAsMTY1ODI3OTM4NiwxNj
+eyJoaXN0b3J5IjpbLTE2NjE0OTg4NDEsMTY1ODI3OTM4NiwxNj
 AwOTQzMTY5LDEwNzkyNDQzNjNdfQ==
 -->
