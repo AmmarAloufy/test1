@@ -71,13 +71,13 @@ It is a Windows application linked to timesprayer[^1]: site that lets you know t
  - **Advanced Notifications:** set multiple notifications for each prayer (e.g., 15 minutes before prayer).
  - **Multiple Location Support:** Add multiple locations by entering city names or coordinates.
 
----
-### ref:
+
+
 [^1]:https://timesprayer.com/
 [^2]:https://github.com/AmmarAloufy/test1
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg2NDcxODk2LC03MjM0OTYyODEsMjAzMT
-MyMzk3OV19
+eyJoaXN0b3J5IjpbMTI5MjUwMzkwNSwtNzIzNDk2MjgxLDIwMz
+EzMjM5NzldfQ==
 -->
