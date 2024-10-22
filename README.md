@@ -65,10 +65,11 @@ It is a Windows application that lets you know the prayer times and reminds you 
 
 ## Advanced Usage: :dart:
 
- - Advanced Notifications: set multiple notifications for each prayer (e.g., 15 minutes before prayer).
+ - **Advanced Notifications:** set multiple notifications for each prayer (e.g., 15 minutes before prayer).
+ - 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MTAwMTA2NiwtOTIwNjM1MDY0LC0xNj
-YxNDk4ODQxLDE2NTgyNzkzODYsMTYwMDk0MzE2OSwxMDc5MjQ0
-MzYzXX0=
+eyJoaXN0b3J5IjpbLTE4ODY3MzQ4MjMsLTkyMDYzNTA2NCwtMT
+Y2MTQ5ODg0MSwxNjU4Mjc5Mzg2LDE2MDA5NDMxNjksMTA3OTI0
+NDM2M119
 -->
